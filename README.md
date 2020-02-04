@@ -1,6 +1,8 @@
 # Day Planner
 Calendar application
 
+https://megha-murthy.github.io/day-planner/
+
 ## Description:
 
 This is a calendar application that allows the user to save events for each hour of the day. The app displays standard business hours (9 a.m. to 5 p.m.)
